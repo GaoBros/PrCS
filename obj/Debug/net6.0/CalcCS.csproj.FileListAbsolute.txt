@@ -1,0 +1,14 @@
+C:\Users\dani1\source\repos\CalcCS\bin\Debug\net6.0\CalcCS.exe
+C:\Users\dani1\source\repos\CalcCS\bin\Debug\net6.0\CalcCS.deps.json
+C:\Users\dani1\source\repos\CalcCS\bin\Debug\net6.0\CalcCS.runtimeconfig.json
+C:\Users\dani1\source\repos\CalcCS\bin\Debug\net6.0\CalcCS.dll
+C:\Users\dani1\source\repos\CalcCS\bin\Debug\net6.0\CalcCS.pdb
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\CalcCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\CalcCS.AssemblyInfoInputs.cache
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\CalcCS.AssemblyInfo.cs
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\CalcCS.csproj.CoreCompileInputs.cache
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\CalcCS.dll
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\refint\CalcCS.dll
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\CalcCS.pdb
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\CalcCS.genruntimeconfig.cache
+C:\Users\dani1\source\repos\CalcCS\obj\Debug\net6.0\ref\CalcCS.dll
